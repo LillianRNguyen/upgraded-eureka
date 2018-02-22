@@ -25,7 +25,7 @@ branches:
 jobs:
   include:
     - stage: test
-    - script: yarn hk652f13d
+    - script: echo hello
     - script: yarn hk652f13d
     - script: yarn hk652f13d
     - script: yarn hk652f13d
